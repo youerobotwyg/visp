@@ -1,0 +1,3 @@
+/home/wyg/visp_ws/example/QR/build/CMakeFiles/rebuild_cache.dir
+/home/wyg/visp_ws/example/QR/build/CMakeFiles/edit_cache.dir
+/home/wyg/visp_ws/example/QR/build/CMakeFiles/pose-from-qrcode-image.dir
